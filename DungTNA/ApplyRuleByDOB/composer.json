@@ -1,0 +1,17 @@
+{
+  "name": "dung-t-n-a/module-apply-rule-by-d-o-b",
+  "version": "1.0.0",
+  "description": "N/A",
+  "type": "magento2-module",
+  "require": {
+    "magento/framework": "*"
+  },
+  "autoload": {
+    "files": [
+      "registration.php"
+    ],
+    "psr-4": {
+      "DungTNA\\ApplyRuleByDOB\\": ""
+    }
+  }
+}
